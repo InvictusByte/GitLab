@@ -1,1 +1,1 @@
-Thsi is my faeture branch
+This is my feature branch
